@@ -1,0 +1,9 @@
+{
+  "name": "phoda40plus",
+  "private": true,
+  "description": "App Treino Phoda 40+: treinos da semana e objetivo atual.",
+  "devDependencies": {
+    "@fontsource-variable/big-shoulders": "5.3.0",
+    "@fontsource-variable/libre-franklin": "5.3.0"
+  }
+}
